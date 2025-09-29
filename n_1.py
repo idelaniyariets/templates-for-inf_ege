@@ -6,11 +6,11 @@
 Так как таблицу и схему рисовали независимо друг от друга, нумерация населённых пунктов в таблице никак не связана с буквенными обозначениями на графе. Определите, какова сумма протяжённостей дорог из пункта G в пункт E и из пункта F в пункт H.
 В ответе запишите целое число.
 '''
-from itertools import *
+from itertools import permutations
 
 a="258 17 56 68 138 347 26 145".split() #переписываем пункты
-s = "HD HB HF DA AG AC CB FE EG GC".split() #переписываем маршруты
-
-for p in permutations("ABCDEFH"):
-	if all(str(p.index(x) + 1) in a[p.index(y)] for x,y in s):
+s ="AC AD BC BH CG DH EF EG FH".split() #переписываем маршруты
+print("1 2 3 4 5 6 7 8")
+for p in permutations("ABCDEFGH"):
+	if all(str(p.index(x) + 1) in a[p.index(y)] for x, y in s):
 		print(*p)

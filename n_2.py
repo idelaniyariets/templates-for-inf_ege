@@ -7,20 +7,20 @@ F=(x∨y)∧¬(y≡z)∧¬w , но успел заполнить лишь фра
 В ответе напишите буквы w,x,y,z в том порядке, в котором идут соответствующие им столбцы (сначала буква, соответствующая первому столбцу; затем буква, соответствующая второму столбцу, и т.д.). Буквы в ответе пишите подряд, никаких разделителей между буквами ставить не нужно.
 '''
 
-from itertools import *
-
+from itertools import * #импортируем модули
+#переписываем функцию
 def f (x,y,z,w): 
 	return (x or y) and (not(y==z)) and (not (w))
 
-for x1, x2, x3, x4 in product([0, 1], repeat=4):
+for x1, x2, x3, x4 in product([0, 1], repeat=4): #подставляем значения
 	t = (
 	(1, x1, 1, x2, 1),
-	(0, 1, x3, 0, 1),
+	(0, 1, x3, 0, 1), #переписываем таблицу
 	(x4, 1, 1, 0, 1)
 	)
 	
-if len(t) == len(set(t)):
-	for p in permutations('xyzw'):
-		if all(f(**dict(zip(p, l))) == l[-1] for l in t):
-			print (*p)
+	if len(t) == len(set(t)): #проверяем на уникальность строк
+		for p in permutations('xyzw'):
+			if all(f(**dict(zip(p, l))) == l[-1] for l in t): # магия
+				print (*p)
 	
