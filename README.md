@@ -6,17 +6,18 @@
 ### Для локального просмотра шаблонов: 
 ` git clone https://github.com/idelaniyariets/templates-for-inf_ege `
 Чтобы получить условие задачи в удобном виде скопируйте номер задания из комментария и найдите его на сайте [КЕГЭ](https://kompege.ru/task) в поле "Поиск по номеру"
-### Для просмотра шаблонов на гитхабе.
+### Для просмотра шаблонов на сайте.
 Чтобы посмотреть шаблон из репозитория нажмите на ссылку с интересующим вас номером задания в конце файла README.
 Чтобы посмотреть шаблон из репозитория нажмите на ссылку с интересующим вас номером задания в конце файла README. Чтобы получить условие задачи в удобном виде скопируйте номер задания из комментария и найдите его на сайте [КЕГЭ](https://kompege.ru/task) в поле "Поиск по номеру"
 
 ## Ссылки
-1. [номер 1 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_1.py)
-2. [номер 2 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_2.py)
-5. [номер 5 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_5.py)
-6. [номер 6 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_6.py)
-8. [номер 8 тип 1](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_8.py), [номер 8 тип 2](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_8_1.py)
-12. [номер 12 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_12.py)
-13. [номер 13 демо](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_13.py)
+* 1. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_1.py)
+* 2. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_2.py)
+* 5. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_5.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_5.py)
+* 6. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_6.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_6.py)
+* 8. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_8.py),[codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_8.py)
+* 8.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_8_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_8_1.py)
+* 12. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_12.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_12.py)
+* 13. [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_13.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_13.py)
 
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
