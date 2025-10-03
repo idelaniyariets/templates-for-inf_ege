@@ -19,9 +19,7 @@
 *8.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_8_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_8_1.py)
 * 12.[github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_12.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_12.py)
 * 13.[github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_13.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_13.py)
-*
-19.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19_1.py)
-*
-19.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19_2.py)
+*19.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19_1.py)
+*19.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19_2.py)
 
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
