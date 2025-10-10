@@ -9,7 +9,7 @@
 from itertools import permutations
 
 a="258 17 56 68 138 347 26 145".split() #переписываем пункты
-s ="AC AD BC BH CG DH EF EG FH".split() #переписываем маршруты
+s ="BH BC HD HF DA AG AC FE EG".split() #переписываем маршруты
 print("1 2 3 4 5 6 7 8")
 for p in permutations("ABCDEFGH"):
 	if all(str(p.index(x) + 1) in a[p.index(y)] for x, y in s):
