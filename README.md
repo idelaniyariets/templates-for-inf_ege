@@ -33,3 +33,5 @@
 * 23 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_23.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_23.py)
 
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
+
+> в ближайшем будующем репозиторий будет переосмыслен и наполнен решениями готовых заданий. если интересует процесс обновления можете написать мне в [Telegram](http://t.me/RainInside)
