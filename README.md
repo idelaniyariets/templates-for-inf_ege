@@ -26,14 +26,10 @@
 * 14.3 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_14_3.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_14_3.py)
 * 15 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_15.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15.py)
 * 15.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_15_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15_1.py)
-* 
-15.2 [github](https://github.com/idelaniyariets/templates-
-for-inf_ege/blob/main/n_15_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15_2.py)
-* 
-15.3 [github](https://github.com/idelaniyariets/templates-
+* 15.2 [github](https://github.com/idelaniyariets/templates-
 for-inf_ege/blob/main/n_15_3.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15_3.py)
-* 15.4 [github](https://github.com/idelaniyariets/templates-
-for-inf_ege/blob/main/n_15_4.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15_4.py)
+* 15.3 [github](https://github.com/idelaniyariets/templates-
+for-inf_ege/blob/main/n_15_3.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_15_3.py)
 * 16 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_16.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_16.py)
 * 17 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_17.py) [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_17.py)
 * 19.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19-n21_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19-n21_1.py)
