@@ -33,6 +33,7 @@
 * 19.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19-n21_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19-n21_1.py)
 * 19.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19-n21_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19-n21_2.py)
 * 23 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_23.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_23.py)
+* 24 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_24.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_24.py)
 
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
 
