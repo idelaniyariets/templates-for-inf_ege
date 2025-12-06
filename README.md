@@ -4,7 +4,9 @@
 Репозиторий создавался предежде всего для учащихся 10-11 классов, которые собираются сдавать ЕГЭ в 2026 и после годах (надеюсь репозиторий будет обновляться после моей сдачи экзамена)
 ## Как работать с этим репозиторием?
 ### Для локального просмотра шаблонов: 
-` git clone https://github.com/idelaniyariets/templates-for-inf_ege` или `git clone https://codeberg.org/IdealniyAriets/templates-for-inf_ege.git`
+`git clone https://github.com/idelaniyariets/templates-for-inf_ege` 
+или 
+`git clone https://codeberg.org/IdealniyAriets/templates-for-inf_ege.git`
 Чтобы получить условие задачи в удобном виде скопируйте номер задания из комментария и найдите его на сайте [КЕГЭ](https://kompege.ru/task) в поле "Поиск по номеру", в некоторых шаблонах приложена ссылка на задание с РешуЕГЭ
 ### Для просмотра шаблонов на сайте.
 Чтобы посмотреть шаблон из репозитория нажмите на ссылку с интересующим вас номером задания в конце файла README.
@@ -34,7 +36,9 @@
 * 19.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_19-n21_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_19-n21_2.py)
 * 23 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_23.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_23.py)
 * 24 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_24.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_24.py)
+* 25.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_25_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_25_1.py)
+* 25.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/n_25_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/n_25_2.py)
 
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
 
-> в ближайшем будующем репозиторий будет переосмыслен и наполнен решениями готовых заданий. если интересует процесс обновления можете написать мне в [Telegram](http://t.me/RainInside)
+> Репозиторий пополняется решениями готовых заданий каждую неделю. Если интересует процесс обновления можете написать мне в [Telegram](http://t.me/RainInside)
