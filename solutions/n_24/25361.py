@@ -21,3 +21,14 @@ for r in range(len(s)):
     if c==76 and ch==0:
         m = max(m, r-l+1)
 print(m)
+
+s = open("24_25361.txt").readline()
+m = 0
+for l in range(len(s)):
+    for r in range(l+m, len(s)):
+        c = s[l:r+1]
+        if c.count("F") == 76 and c[0] in "24680" and (c.count("2") == 1 or c.count("4") == 1 or c.count("6") == 1 or c.count("8") == 1 or c.count("0") == 1) and (c.count("2") + c.count("4") + c.count("6") + c.count("8") + c.count("0") == 1):
+            m = max(m, len(c))
+        else:
+            break
+print(m)
