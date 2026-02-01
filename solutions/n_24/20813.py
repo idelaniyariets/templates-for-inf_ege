@@ -5,7 +5,8 @@
 В ответе укажите количество символов.'''
 from re import *
 s = open("24_20813.txt").readline().strip()
-reg = r"([789][0789]*|[0])[*-]([789][0798]*|[0])(?:[*-]([789][0789]*|[0]))*"
+num = r"([789][0789]*|[0])"
+reg = rf"{num}[*-]{num}(?:[*-]{num})*"
 h = [x.group() for x in finditer(reg, s)]
 print(s[:1000])
 print(h[:10])
