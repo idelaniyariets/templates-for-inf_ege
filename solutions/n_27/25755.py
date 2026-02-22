@@ -35,8 +35,40 @@ def fmin(cl1, cl2):
 
 px = py = 0
 
-res = [fmin(clusters[0], clusters[1]), fmin(clusters[1], clusters[2]), fmin(clusters[0], clusters[2])]
+res = []
+for i in range(len(clusters)):
+    for j in range(i, len(clusters)):
+        res.append(fmin(clusters[i], clusters[j]))
+print(res)
+print((sum([dot[0] for pair in res for dot in pair])/12)*10000)
 for dot in res:
     px += dot[0][0]+dot[1][0]
     py += dot[0][1]+dot[1][1]
-print(int((px/6)*10000), int((py/6)*10000))
+print(int((px/12)*10000), int((py/12)*10000))
+
+s = open("files/27B_25755.txt")
+data = []
+
+for line in s:
+    data.append([float(x) for x in line.split()])
+print(len(data))
+
+clusters = []
+while data:
+    cluster = get_cluster(data[0])
+    print(len(cluster))
+    clusters.append(cluster)
+
+for cluster in clusters[::]:
+    if len(cluster) == 1:
+        clusters.remove(cluster)
+
+res = []
+for i in range(len(clusters)):
+    for j in range(i+1, len(clusters)):
+        res.append(fmin(clusters[i], clusters[j]))
+
+q = (fmin(sorted(clusters, key=len)[0], sorted(clusters, key=len)[-1]))
+q1 = int(dist(q[0], q[1])*10000)
+q2 = int((max(dist(p, (0,0)) for dots in res for p in dots))*10000)
+print(q1, q2)
