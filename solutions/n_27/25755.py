@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27A_25755.txt")
+a = open("files/27A_25755.txt")
 data = []
 
 for line in a:

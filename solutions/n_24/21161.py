@@ -8,7 +8,7 @@
 - слова в предложении разделены пробелами, два пробела стоять рядом в предложении не могут.
 В ответе укажите количество символов.'''
 from re import *
-s = open('24_21161.txt').readline()
+s = open('files/24_21161.txt').readline()
 fwd = r"([ABC][abc]*)"
 sp = fr"[ABC][ ]{fwd}( {fwd})*\."
 h = [x.group() for x in finditer(sp, s)]

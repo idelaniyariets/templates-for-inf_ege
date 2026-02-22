@@ -1,4 +1,4 @@
-s = open("24_24374.txt").readline().strip()
+s = open("files/24_24374.txt").readline().strip()
 m = l = c = 0
 ans = []
 for r in range(2, len(s)-1):

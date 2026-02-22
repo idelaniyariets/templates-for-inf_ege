@@ -1,7 +1,7 @@
 '''№ 24898 (Уровень: Средний)'''
 from math import dist
 
-a = open("27_A_24898.txt")
+a = open("files/27_A_24898.txt")
 a.readline()
 data = []
 for line in a:
@@ -41,7 +41,7 @@ py = int(max(lens)[1]*10000)
 print(px, py)
 
 
-a = open("27_B_24898.txt")
+a = open("files/27_B_24898.txt")
 a.readline()
 data = []
 for line in a:

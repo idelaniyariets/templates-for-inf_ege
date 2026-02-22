@@ -1,7 +1,7 @@
 from re import *
 
 m = 0
-s = open("24_23424.txt").readline().strip()
+s = open("files/24_23424.txt").readline().strip()
 reg = "[AEIOUY][0-9]*[AEIOUY]"
 h = [x.group() for x in finditer(reg, s)]
 

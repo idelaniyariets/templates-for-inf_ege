@@ -3,7 +3,7 @@
 from math import dist
 from turtle import *
 
-a = open("27A_18678.txt")
+a = open("files/27A_18678.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])
@@ -41,7 +41,7 @@ py = int((sum([y for x,y in centroids])/len(centroids))*100000)
 print(px, py)
 
 
-a = open("27B_18678.txt")
+a = open("files/27B_18678.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])

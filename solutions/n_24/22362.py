@@ -6,7 +6,7 @@
 Примечание. Латинские буквы А, В - цифры из алфавита 12-ричной системы счисления.
 '''
 from re import *
-s = open("24_22362.txt").readline().strip()
+s = open("files/24_22362.txt").readline().strip()
 reg = r"[1-9AB][0-9AB]+[0369]"
 h=[x.group() for x in finditer(reg, s)]
 mx = 0

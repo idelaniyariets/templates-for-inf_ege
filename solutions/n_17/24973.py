@@ -1,4 +1,4 @@
-s = [int(x) for x in open("17_24973.txt")]
+s = [int(x) for x in open("files/17_24973.txt")]
 mn = 0
 res = []
 

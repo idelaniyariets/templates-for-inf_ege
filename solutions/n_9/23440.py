@@ -1,4 +1,4 @@
-s = [x.strip().split() for x in open("9_23440.txt")]
+s = [x.strip().split() for x in open("files/9_23440.txt")]
 
 def chpovt(ln):
     c = 0

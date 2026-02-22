@@ -6,7 +6,7 @@
 
 В ответ запишите длину найденной последовательност'''
 from re import *
-s = open("24.23_19887.txt").readline().strip()
+s = open("files/24.23_19887.txt").readline().strip()
 reg = r"([02468][13579])+"
 reg1 = r"([13579][24680])+"
 print(max([len(x.group()) for x in finditer(reg, s)]))

@@ -15,7 +15,7 @@ def count(s):
         return True
     else:
         return False
-s = open("24_19149.txt").readline().strip()
+s = open("files/24_19149.txt").readline().strip()
 ex = r"([1-4]+[\+][1-4]+(?:[\+][1-4]+)*)"
 reg = fr"[\(]{ex}[\)]"
 h = [x.group() for x in finditer(reg, s) if count(x.group())]

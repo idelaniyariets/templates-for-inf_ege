@@ -1,7 +1,7 @@
 from math import dist
 
 
-s = open("27A_23429.txt")
+s = open("files/27A_23429.txt")
 data = []
 for line in s:
     data.append([float(x) for x in line.split()])
@@ -34,7 +34,7 @@ px = int((sum([centroids[i][0] for i in range(len(centroids))]))*10000)
 py = int((sum([centroids[i][1] for i in range(len(centroids))]))*10000)
 
 
-s = open("27B_23429.txt")
+s = open("files/27B_23429.txt")
 data = []
 for line in s:
     data.append([float(x) for x in line.split()])

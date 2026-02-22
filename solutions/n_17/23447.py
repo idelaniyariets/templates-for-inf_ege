@@ -1,4 +1,4 @@
-s = [int(x) for x in open("17_23447.txt")]
+s = [int(x) for x in open("files/17_23447.txt")]
 
 maxch = 0
 for a in s:

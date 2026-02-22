@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27A_24985.txt")
+a = open("files/27A_24985.txt")
 data = []
 
 for line in a:
@@ -37,7 +37,7 @@ anti_centroids = [acentroid(cluster) for cluster in clusters]
 px = max(anti_centroids)[0]
 py = max(anti_centroids)[1]
 
-a = open("27B_24985.txt")
+a = open("files/27B_24985.txt")
 data = []
 
 for line in a:

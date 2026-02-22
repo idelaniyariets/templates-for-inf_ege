@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27A_22625.txt")
+a = open("files/27A_22625.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])
@@ -42,7 +42,7 @@ sy = int(((anti_centroids[0][1]+anti_centroids[1][1])/len(anti_centroids))*10000
 print(px, sy)
 
 
-a = open("27B_22625.txt")
+a = open("files/27B_22625.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])

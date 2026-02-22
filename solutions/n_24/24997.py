@@ -5,7 +5,7 @@
 В ответе запишите число – количество символов в найденной последовательности.
 Для выполнения этого задания следует написать программу.'''
 from fnmatch import fnmatch
-s = open("24_24977.txt").readline().strip()
+s = open("files/24_24977.txt").readline().strip()
 c = l = m = 0
 for r in range(7, len(s)):
     if fnmatch(s[r-7:r+1], "2?0?2?6?"):

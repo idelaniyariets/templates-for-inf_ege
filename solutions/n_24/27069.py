@@ -13,7 +13,7 @@ from string import printable
 #printable[36:62] == ABCDEFGHIJKLMNOPQRSTUVWXYZ
 #printable[10:36] == abcdefghijklmnopqrstuvwxyz
 
-s = open("24_27069.txt").readline().strip()
+s = open("files/24_27069.txt").readline().strip()
 wd = r"[A-z][a-z]*"
 wd1 = r"[A-Z][a-z]*"
 reg = fr"{wd1}([ ]{wd})+\."

@@ -1,7 +1,7 @@
 '''№ 23571 Пересдача 03.07.25 (Уровень: Базовый)'''
 from math import dist
 
-a = open("27_A_23571.txt")
+a = open("files/27_A_23571.txt")
 a.readline()
 data = []
 for line in a:
@@ -36,7 +36,7 @@ py = int(sum([y for x,y in centroids])*10000)
 print(px, py)
 
 
-a = open("27_B_23571.txt")
+a = open("files/27_B_23571.txt")
 a.readline()
 data = []
 for line in a:

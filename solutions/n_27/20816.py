@@ -1,6 +1,6 @@
 from math import dist
 
-s = open('27_A_20816.txt')
+s = open('files/27_A_20816.txt')
 s.readline()
 data = []
 
@@ -34,7 +34,7 @@ centroids = [centroid(cluster) for cluster in clusters]
 px = abs(int(((centroids[0][0] + centroids[1][0])/2) * 10000))
 py = abs(int(((centroids[0][1] + centroids[1][1])/2) * 10000))
 
-s = open("27_B_20816.txt")
+s = open("files/27_B_20816.txt")
 s.readline()
 data = []
 

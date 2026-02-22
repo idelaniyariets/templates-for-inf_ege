@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27A_22623.txt")
+a = open("files/27A_22623.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])
@@ -45,7 +45,7 @@ sp = int(dist(max(sspp)[1], min(sspp)[1])*1000)
 print(ps, sp)
 
 
-a = open("27B_22623.txt")
+a = open("files/27B_22623.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])

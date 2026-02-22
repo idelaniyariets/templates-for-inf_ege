@@ -1,4 +1,4 @@
-s = open("24_19254.txt").readline().strip()
+s = open("files/24_19254.txt").readline().strip()
 l = m = c = 0
 
 for r in range(4, len(s)):

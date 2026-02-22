@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27_A_23284.txt")
+a = open("files/27_A_23284.txt")
 a.readline()
 data = []
 for line in a:
@@ -34,7 +34,7 @@ py = int(sum(y for x,y in centroids)*10000)
 print(px, py)
 
 
-a = open("27_B_23284.txt")
+a = open("files/27_B_23284.txt")
 a.readline()
 data = []
 for line in a:

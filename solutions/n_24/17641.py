@@ -50,7 +50,7 @@ def ch(n):
         if r == len(n)-1:
             b.append("".join(n[l:r+1]))
     return b
-s = open("24_17641.txt").readline().strip()
+s = open("files/24_17641.txt").readline().strip()
 num = r"(([1-9][0-9]*)|([0]))"
 reg = fr"{num}[+*]{num}(?:[+*]{num})*"
 h = [x.group() for x in finditer(reg, s)]

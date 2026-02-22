@@ -6,7 +6,7 @@
 Примечание. Латинские буквы A, B, C и D означают цифры из алфавита 14-ричной системы счисления.'''
 from re import *
 
-s = open("24_26551.txt").readline().strip()
+s = open("files/24_26551.txt").readline().strip()
 reg = r"[1-9ABCD][0-9A-D]*[02468AC]"
 h = [x.group() for x in finditer(reg, s)]
 print(len(sorted(h, key=len)[::-1][0]))

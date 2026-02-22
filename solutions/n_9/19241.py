@@ -17,7 +17,7 @@ def fn(ln):
             ss = int(el)
     return se/6 < ss
 
-file = open("9_19241.txt")
+file = open("files/9_19241.txt")
 s = []
 for line in file:
     s.append(line.split())

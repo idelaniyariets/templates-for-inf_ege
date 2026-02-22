@@ -1,4 +1,4 @@
-s = [int(a) for a in open("17_25725.txt")]
+s = [int(a) for a in open("files/17_25725.txt")]
 
 d3 = len([(a for a in s if a%3 == 0)])
 res = []

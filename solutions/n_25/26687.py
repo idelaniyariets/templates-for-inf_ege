@@ -6,11 +6,6 @@
 - минимальный простой множитель не повторяется.
 
 В ответе запишите первые 7 найденных чисел в порядке возрастания, а через пробел  для каждого из них соответствующий наибольший из найденных множителей.'''
-def pr(n):
-    p = 1
-    for el in n:
-        p *= int(el)
-    return p
 
 def f(d,n):
     for d in range(d, int(n**0.5)+1):
@@ -18,11 +13,24 @@ def f(d,n):
             return [d] + f(d, n//d)
     return [n]
 
+def chpovt(n):
+    c = []
+    for el in n:
+        c.append(n.count(el))
+    pr = 1
+    for el in c:
+        pr *= el
+    if pr == 2**4:
+        return True
+    else:
+        return False
+
 c = 0
-for i in range(89427151, 10**100):
-    r = f(2, i)
-    if len(r) == 8 and r.count(min(r)) == 1 and (pr([r.count(el) for el in r]) == 16 and 4 not in r):
-        print(i, max(r))
+for x in range(89427151, 10**10):
+    dels = f(2, x)
+    if len(dels) == 8 and dels.count(min(dels)) == 1 and chpovt(dels):
+        print(x, max(dels))
         c += 1
     if c == 7:
         break
+"красивая интересная задачка"

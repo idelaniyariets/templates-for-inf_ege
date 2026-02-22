@@ -1,5 +1,5 @@
 from math import dist
-s = open("27_A_19257.txt")
+s = open("files/27_A_19257.txt")
 s.readline()
 data = []
 for line in s:
@@ -32,7 +32,7 @@ centroids = [centroid(cluster) for cluster in clusters]
 px = int((sum([centroid[0] for centroid in centroids])/len(centroids))*10000)
 py = int((sum([centroid[1] for centroid in centroids])/len(centroids))*10000)
 
-s = open("27_B_19257.txt")
+s = open("files/27_B_19257.txt")
 s.readline()
 data = []
 for line in s:

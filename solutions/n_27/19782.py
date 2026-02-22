@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27A_19782.txt")
+a = open("files/27A_19782.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])
@@ -40,7 +40,7 @@ radii = [radius(centroid) for centroid in centroids]
 print(int(min(radii)*10000), int(max(radii)*10000))
 
 
-a = open("27B_19782.txt")
+a = open("files/27B_19782.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])

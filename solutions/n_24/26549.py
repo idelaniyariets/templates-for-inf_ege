@@ -1,5 +1,5 @@
 ''''''
-s = open('24_26549.txt').readline().strip()
+s = open('files/24_26549.txt').readline().strip()
 l = m = c = k = 0
 for r in range(3, len(s)):
     c += s[r] == "Y"

@@ -1,4 +1,4 @@
-s = [int(x) for x in open("17_17558.txt")]
+s = [int(x) for x in open("files/17_17558.txt")]
 
 cn = len([x for x in s if x%32 == 0])
 ans = []

@@ -18,7 +18,7 @@ def cnt(v:str):
             sm += int(x)
         return sm
 
-s = open("24_19751.txt").readline().strip()
+s = open("files/24_19751.txt").readline().strip()
 num = r"(([1-9][0-9]*)|[0])"
 exp = fr"(({num}[+]{num}(?:[+]{num})*)|{num})"
 reg = fr"[A]{exp}"

@@ -1,7 +1,7 @@
 from math import dist
 
 
-s = open("27_A_23209.txt")
+s = open("files/27_A_23209.txt")
 s.readline()
 data = []
 for line in s:
@@ -35,7 +35,7 @@ px = int((min(centroids[0]))*10000)
 py = int((min(centroids[1])*10000))
 
 
-s = open("27_B_23209.txt")
+s = open("files/27_B_23209.txt")
 s.readline()
 data = []
 for line in s:

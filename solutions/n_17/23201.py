@@ -1,4 +1,4 @@
-s = [int(x) for x in open("17_23201.txt")]
+s = [int(x) for x in open("files/17_23201.txt")]
 
 minel = 105000
 for el in s:

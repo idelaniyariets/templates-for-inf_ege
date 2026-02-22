@@ -1,4 +1,4 @@
-s = [int(s) for s in open("17_23376.txt")]
+s = [int(s) for s in open("files/17_23376.txt")]
 maxe = 0
 for el in s:
     if len(str(abs(el))) == 5 and abs(el)%100 == 37 and el > maxe:

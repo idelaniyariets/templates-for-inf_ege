@@ -2,7 +2,7 @@ from math import dist
 from turtle import *
 import time
 
-a = open("27_A_21599.txt")
+a = open("files/27_A_21599.txt")
 
 data = []
 for line in a:
@@ -60,7 +60,7 @@ py = abs(int(sum([y for x,y in centroids])/len(centroids)*10000))
 print(px, py)
 
 
-a = open("27_B_21599.txt")
+a = open("files/27_B_21599.txt")
 data = []
 for line in a:
     data.append([float(x) for x in line.split()])
