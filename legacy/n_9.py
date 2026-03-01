@@ -27,6 +27,7 @@ def check_repeats(line):
 
 def f(line):
 #ситуативная функция для второго условия
+#ее может и не быть
     summ = 0
     num = 0
     for element in line:
