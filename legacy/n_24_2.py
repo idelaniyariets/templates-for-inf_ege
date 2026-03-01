@@ -5,7 +5,7 @@
 Для выполнения этого задания следует написать программу.
 Примечание. Цифры, числовое значение которых превышает 9, обозначены латинскими буквами, начиная с буквы A.'''
 from re import *
-s = open("24_21421.txt").readline().strip()
+s = open("files/24_21421.txt").readline().strip()
 
 reg = r"[1-9AB][0-9AB]+[02468A]"
 print(max([len(x.group()) for x in finditer(reg, s)]))

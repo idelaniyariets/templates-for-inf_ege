@@ -1,6 +1,6 @@
 from math import dist
 
-a = open("27_A_23766.txt") #открываем файл
+a = open("files/27_A_23766.txt") #открываем файл
 
 data = []
 for line in a:
@@ -37,7 +37,7 @@ py = int(min(y for x, y in centroids)*10000)
 print(px, py)
 
 #файл B. логика не особо отличается
-a = open("27_B_23766.txt")
+a = open("files/27_B_23766.txt")
 
 data = []
 for line in a:
