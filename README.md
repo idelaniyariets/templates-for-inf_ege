@@ -23,6 +23,7 @@
 * 6 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_6.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_6.py)
 * 8 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_8.py),[codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_8.py)
 * 8.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_8_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_8_1.py)
+* 9 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_9.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_9.py)
 * 12.[github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_12.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_12.py)
 * 13.[github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_13.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_13.py)
 * 14.1 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_14_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_14_1.py)
