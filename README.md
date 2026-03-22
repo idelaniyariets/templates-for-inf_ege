@@ -50,6 +50,8 @@
 * 25.2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_25_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_25_2.py)
 * 27 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_27.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_27.py)
 
+А также хочу порекомендовать вам прекрасный [сайт](https://ege.bzzq.su) с решениями заданий егэ от моего друга [rubygem17](https://codeberg.org/rubygem17). Пользуйтесь и наслаждайтесь!
+
 ## Удачи в подготовке друзья, желаю набрать вам наивысшее количество баллов!!!
 
 > Репозиторий пополняется решениями готовых заданий каждую неделю. Если интересует процесс обновления можете написать мне в [Telegram](http://t.me/RainInside).
