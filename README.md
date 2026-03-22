@@ -16,6 +16,9 @@
 
 Чтобы получить условие задачи в удобном виде скопируйте номер задания из комментария и найдите его на сайте [КЕГЭ](https://kompege.ru/task) в поле "Поиск по номеру", в некоторых шаблонах приложена ссылка на задание с РешуЕГЭ. Недавно в репозитории появились решения без условия; для таких случаев введите в пол поиска названия файла с решением(без расширения).
 ## Ссылки
+**ССЫЛКИ НА ЗАДАНИЯ 3,10,18,22 БОЛЬШЕ НЕ РАБОТАЮТ**
+
+>если будет не лень перезалью на какой-нибудь другой сервис, но мне лень
 * 1[github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_1.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_1.py)
 * 2 [github](https://github.com/idelaniyariets/templates-for-inf_ege/blob/main/legacy/n_2.py), [codeberg](https://codeberg.org/IdealniyAriets/templates-for-inf_ege/src/branch/main/legacy/n_2.py)
 * 3 [решение](https://derevnya.bzzq.su/random_videos/3_23740.mp4)
@@ -51,6 +54,6 @@
 
 > Репозиторий пополняется решениями готовых заданий каждую неделю. Если интересует процесс обновления можете написать мне в [Telegram](http://t.me/RainInside).
 > 
-> Моя статистика по пробникам: 59 -> 54 -> 88 -> 90 -> 88 -> 88 -> 93 -> 69 -> 87 -> 70
+> Моя статистика по пробникам: 59 -> 54 -> 88 -> 90 -> 88 -> 88 -> 93 -> 69 -> 87 -> 70 -> 82
 > 
 > Баллы падают, я не могу, когда уже отдых (08.03.2026) 
